@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 
 public class MainActivity extends AppCompatActivity {
 
-    final int DELAY = 500; // 2000ms = 2 second
+    final int DELAY = 2000; // 2000ms = 2 second
     private TextView main_LBL_counter;
     private int counter = 0;
 
